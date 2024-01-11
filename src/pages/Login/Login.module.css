@@ -1,0 +1,12 @@
+.login {
+    text-align: center;
+}
+
+.login p {
+    color: #aaa;
+}
+
+.login form {
+    margin-top: 5rem  !important;
+    max-width: 25% !important;
+}
